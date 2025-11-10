@@ -1,6 +1,5 @@
 TP 2 : Encapsulation
 
-TP 1 : Classes et Objets
 
 Exercice 1:
 ![image alt](https://github.com/laouysalma/Tp2Python/blob/main/Ex1.png?raw=true)
